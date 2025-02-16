@@ -20,7 +20,7 @@ int main()
         S = a * b * c;
         std::cout << "Площадь треугольника: " << S;
     }
-    */
+    *
     int K, M, N, S;
     bool isValid1Input = false;
     bool isValid2Input = false;
